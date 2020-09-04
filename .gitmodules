@@ -28,3 +28,7 @@
 [submodule "layers/meta-rust-bin"]
 	path = layers/meta-rust-bin
 	url = https://github.com/rust-embedded/meta-rust-bin.git
+[submodule "layers/meta-iot-cloud"]
+	path = layers/meta-iot-cloud
+	url = https://github.com/Sensefarm/meta-iot-cloud.git
+	branch = dunfell
